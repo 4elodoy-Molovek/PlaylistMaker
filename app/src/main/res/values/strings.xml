@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Playlist Maker</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Название трека или исполнитель</string>
+    <string name="clear_search">Очистить поиск</string>
+    <string name="no_tracks">Ничего не найдено</string>
+    <string name="search_error">Не удалось найти треки</string>
+    <string name="retry">Повторить</string>
+    <string name="loading">Поиск треков</string>
+    <string name="settings">Настройки</string>
+    <string name="dark_theme">Тёмная тема</string>
+    <string name="track_details">О треке</string>
+    <string name="track_unavailable">Трек недоступен</string>
+    <string name="back">Назад</string>
+    <string name="share">Поделиться приложением</string>
+    <string name="share_text">Playlist Maker — поиск музыкальных треков</string>
+    <string name="enter_query">Введите строку для поиска</string>
+    <string name="contact_developer">Написать разработчикам</string>
+    <string name="agreement">Пользовательское соглашение</string>
+    <string name="developer_email" translatable="false">ivandor228@outlook.com</string>
+    <string name="support_subject">Вопрос о Playlist Maker</string>
+    <string name="support_body">Здравствуйте! Хочу задать вопрос о приложении Playlist Maker.</string>
+    <string name="agreement_url" translatable="false">https://yandex.ru/legal/practicum_offer/</string>
+    <string name="no_handler">На устройстве нет приложения для этого действия</string>
+</resources>
